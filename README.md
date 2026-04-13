@@ -4,7 +4,7 @@
 </div>
 
 
-<h2 align="center">A Passionate Full-Stack Developer</h2>
+<h2 align="center">AI Automation & Solutions Architect</h2>
 <h3 align="center"><code>curl portfolio.fossmentor.rocks</code></h3>
 <p align="center">
   <a href="mailto:contact@fossmentor.com" target="blank">
@@ -18,15 +18,15 @@
 <h4 align="center">Pronouns: He/Him</h4>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankit404butfound&label=Profile%20views&color=0e75b6&style=flat" alt="FOSSMentorOfficial" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankit404butfound&label=Profile%20views&color=0e75b6&style=flat" alt="fossmentor-official" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FOSSMentorOfficial" alt="FOSSMentorOfficial" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fossmentor-official" alt="fossmentor-official" /></a> </p>
 
-- 🌱 Gaining expertise in **Machine Learning**, **Data Science**, and **Artificial Intelligence**.
+- Building LLM-powered agents and AI automation systems for **Healthcare SaaS, ERP & eCommerce businesses**.
+- 12+ years of production software experience — I integrate AI where it creates real operational value, not just demos
+- Currently focused on RAG pipelines, agentic AI architectures, and LLM integration into existing business platforms
 
-- 💬 Ask me anything about **PHP, Python, MachineLearning**.
-
-- 📫 How to reach me **contact@fossmentor.com**
+- 📫 How to reach me **contact@wasifyounas.com**
 
 
 <h2 align="center">Languages and Tools:</h2>
@@ -49,11 +49,11 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FOSSMentorOfficial&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ankit404butfound" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fossmentor-official&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ankit404butfound" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=FOSSMentorOfficial&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="ankit404butfound" />
+<img src="https://github-readme-stats.vercel.app/api?username=fossmentor-official&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="ankit404butfound" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FOSSMentorOfficial&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fossmentor-official&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
 
 </div>
 
